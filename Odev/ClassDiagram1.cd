@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="erdemOdev.Car">
+    <Position X="2.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="erdemOdev.Coordinate">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>Coordinate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="erdemOdev.Program">
+    <Position X="11" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="erdemOdev.Route">
+    <Position X="9.25" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAQAAI=</HashCode>
+      <FileName>Route.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="erdemOdev.ShortestPath" BaseTypeListCollapsed="true">
+    <Position X="5.25" Y="2" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ShortestPath.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="erdemOdev.Truck">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Truck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="erdemOdev.TruckPath" BaseTypeListCollapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TruckPath.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="erdemOdev.Vehicle">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vehicle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="erdemOdev.IAlgorithm">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IAlgorithm.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

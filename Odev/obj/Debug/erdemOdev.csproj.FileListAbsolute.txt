@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\erdemOdev\erdemOdev\bin\Debug\erdemOdev.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\erdemOdev\erdemOdev\bin\Debug\erdemOdev.exe
+c:\users\acer\documents\visual studio 2015\Projects\erdemOdev\erdemOdev\bin\Debug\erdemOdev.pdb
+c:\users\acer\documents\visual studio 2015\Projects\erdemOdev\erdemOdev\obj\Debug\erdemOdev.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\erdemOdev\erdemOdev\obj\Debug\erdemOdev.exe
+c:\users\acer\documents\visual studio 2015\Projects\erdemOdev\erdemOdev\obj\Debug\erdemOdev.pdb
